@@ -8,7 +8,7 @@
 2. Navigate to the folder where you want to keep the project.
 
    ```bash
-   git clone https://github.com/KeshavAnandCode/DecodeFTCMain.git
+   git clone https://github.com/Technical-Turbulence-FTC/DecodeTestbot.git
    cd DecodeFTCMain
    ```
 
@@ -20,8 +20,8 @@
 
    You should see:
    ```
-   origin    https://github.com/KeshavAnandCode/DecodeFTCMain.git (fetch)
-   origin    https://github.com/KeshavAnandCode/DecodeFTCMain.git (push)
+   origin    https://github.com/Technical-Turbulence-FTC/DecodeTestbot.git (fetch)
+   origin    https://github.com/Technical-Turbulence-FTC/DecodeTestbot.git (push)
    upstream  https://github.com/FIRST-Tech-Challenge/FtcRobotController.git (fetch)
    upstream  https://github.com/FIRST-Tech-Challenge/FtcRobotController.git (push)
    ```
